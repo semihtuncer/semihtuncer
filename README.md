@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtuncer&layout=compact&theme=dark" alt=semihtuncer />
+<img align="left" height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtuncer&langs_count=8&theme=dark" alt=semihtuncer />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semihtuncer&theme=dark" height="180em" />
 <div align="center">
 <a href="https://github.com/semihtuncer">
