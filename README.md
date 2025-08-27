@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stats</h3>
+<h3 align="left">Stats:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihtuncer&layout=compact&theme=" alt=semihtuncer />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semihtuncer&theme=dark" height="180em" />
 <div align="center">
